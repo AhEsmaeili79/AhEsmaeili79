@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Docker, DRF**
 
-💬 Ask me about **Django, React, Docker... or anything if i know the answer you could send me mail from [here](mailto:amrhsn.es@gmail.com)**
+💬 Ask me about **Django, React, Docker... or anything if i know the answer you could send me mail from [here]<mailto:amrhsn.es@gmail.com>**
 
  <hr/>
  
