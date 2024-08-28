@@ -22,7 +22,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git,docker,linux" />
-    <img src="https://skillicons.dev/icons?i=django,python,javascript,mysql,flask,postgres,drf" /><br>
+    <img src="https://skillicons.dev/icons?i=django,python,javascript,mysql,flask,postgres,django-rest-framework" /><br>
 </div>
 
 <br/>
