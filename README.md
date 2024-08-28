@@ -21,8 +21,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git,docker,linux" />
-    <img src="https://skillicons.dev/icons?i=django,python,javascript,mysql,flask,postgres,django-rest-framework,debian" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git,docker,terminal,redis,linux,fastapi,sqlserver,regex" />
+    <img src="https://skillicons.dev/icons?i=django,python,javascript,mysql,flask,postgres,sqlite,debian,ubuntu,api,postman" /><br>
 </div>
 
 <br/>
