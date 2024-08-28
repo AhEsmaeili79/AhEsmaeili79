@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **React - Django Project **
+ 🔭 I’m currently working on **React-Django Project**
  
  🌱 I’m currently learning **Docker, DRF**
 
