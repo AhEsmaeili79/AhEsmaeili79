@@ -24,8 +24,10 @@
     <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git,docker,redis,linux,fastapi,regex" />
     <img src="https://skillicons.dev/icons?i=django,python,javascript,mysql,flask,postgres,sqlite,debian,ubuntu,postman" /><br>
 </div>
-
 <br/>
 <hr/>
 
+
 <br/>
+
+
