@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Docker, DRF**
 
-💬 Ask me about **Django,Docker... or anything I'll answer your question if i know the answer. you could send me mail from <a href="mailto:ah.esmaeili.79@gmail.com"><ah.esmaeili.79@gmail.com></a>**
+💬 Ask me about **Django,Docker... or anything I'll answer your question if i know the answer. you could send me mail from <a href="ah.esmaeili.79@gmail.com"><ah.esmaeili.79@gmail.com></a>**
 
  <hr/>
  
