@@ -20,7 +20,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,github,git,docker,redis,linux,fastapi,regex" />
+    <img src="https://skillicons.dev/icons?i=vscode,github,git,docker,redis,linux,fastapi,regex,mongodb" />
     <img src="https://skillicons.dev/icons?i=django,python,mysql,postgres,sqlite,debian,ubuntu,postman" />
     <br>
 </div>
