@@ -11,9 +11,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **React-Django Project**
+ 🔭 I’m currently working on **FastAPI - Django Project**
  
- 🌱 I’m currently learning **Docker, DRF**
+ 🌱 I’m currently learning **FastAPI, Microservices Structure** .
 
 💬 Ask me about **Django,Docker... or anything I'll answer your question if i know the answer. you could send me mail from <a href="ah.esmaeili.79@gmail.com"><ah.esmaeili.79@gmail.com></a>**
 
