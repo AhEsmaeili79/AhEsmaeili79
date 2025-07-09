@@ -5,7 +5,7 @@
 </h1>
 
 
-<h3 align="center">A Junior Backend Developer</h3>
+<h3 align="center">Backend Developer</h3>
 
 <br/>
 
