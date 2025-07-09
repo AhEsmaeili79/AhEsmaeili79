@@ -15,8 +15,6 @@
  
  🌱 I’m currently learning **FastAPI, Microservices Structure** .
 
-💬 Ask me about **Django,Docker... or anything I'll answer your question if i know the answer. you could send me mail from <a href="ah.esmaeili.79@gmail.com"><ah.esmaeili.79@gmail.com></a>**
-
  <hr/>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
