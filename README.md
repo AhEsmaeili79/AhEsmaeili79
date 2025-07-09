@@ -23,7 +23,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git,docker,redis,linux,fastapi,regex" />
-    <img src="https://skillicons.dev/icons?i=django,python,mysq,postgres,sqlite,debian,ubuntu,postman" />
+    <img src="https://skillicons.dev/icons?i=django,python,mysql,postgres,sqlite,debian,ubuntu,postman" />
     <br>
 </div>
 
