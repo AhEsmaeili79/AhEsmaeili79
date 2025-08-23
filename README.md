@@ -48,30 +48,31 @@
 
 <h2 align="center">🎯 Skills</h2>
 
+
 ### **Backend Development**
-- **FastAPI**: Building high-performance async APIs
-- **Django/Django REST**: Web applications and REST APIs
-- **SQLAlchemy**: Database ORM and migrations
-- **Pydantic**: Data validation and serialization
+**FastAPI**: Building high-performance async APIs  
+**Django/Django REST**: Web applications and REST APIs  
+**SQLAlchemy**: Database ORM and migrations  
+**Pydantic**: Data validation and serialization
 
 ### **Data Management**
-- **PostgreSQL/MySQL**: Relational database design and optimization
-- **MongoDB**: NoSQL database management
-- **Redis**: Caching and session management
-- **Elasticsearch**: Search and analytics
-- **Database Migrations**: Schema version control
+**PostgreSQL/MySQL**: Relational database design and optimization  
+**MongoDB**: NoSQL database management  
+**Redis**: Caching and session management  
+**Elasticsearch**: Search and analytics  
+**Database Migrations**: Schema version control
 
 ### **Message Queuing & Event Processing**
-- **Apache Kafka**: Event streaming and real-time data processing
-- **RabbitMQ**: Message broker and task queuing
-- **Event-Driven Architecture**: Asynchronous communication patterns
+**Apache Kafka**: Event streaming and real-time data processing  
+**RabbitMQ**: Message broker and task queuing  
+**Event-Driven Architecture**: Asynchronous communication patterns
 
 ### **Development Practices**
-- **Docker**: Containerized applications
-- **Ubuntu**: Linux system administration
-- **Clean Architecture**: Modular and maintainable code
-- **RESTful APIs**: Standard API design patterns
-- **Git**: Version control and collaboration
+**Docker**: Containerized applications  
+**Ubuntu**: Linux system administration  
+**Clean Architecture**: Modular and maintainable code  
+**RESTful APIs**: Standard API design patterns  
+**Git**: Version control and collaboration
 
 <br/>
 
