@@ -10,15 +10,12 @@
   <em>Building scalable backend systems with Python</em>
 </p>
 
-<br/>
-
 <div align="center">
  
  🔭 I'm currently working on **FastAPI & Django Development**
  
  🌱 I'm currently learning **Microservices Architecture And Message Brokers**
 
- <hr/>
  
 <h2 align="center">🛠️ Tech Stack</h2>
 
