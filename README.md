@@ -21,7 +21,6 @@
  <hr/>
  
 <h2 align="center">🛠️ Tech Stack</h2>
-<br/>
 
 ### **Backend Frameworks**
 <div align="center">
