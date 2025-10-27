@@ -16,8 +16,7 @@
  
  🌱 I'm currently learning **Microservices Architecture And Message Brokers**
 
- 
-<h2 align="center">🛠️ Tech Stack</h2>
+<hr/>
 
 ### **Backend Frameworks**
 <div align="center">
