@@ -14,7 +14,7 @@
  
  🔭 I'm currently working on **FastAPI & Django Development**
  
- 🌱 I'm currently learning **Design Patterns , Kubernetes Architecture, ElasticSearch**
+ 🌱 I'm currently learning **Design Patterns , Kubernetes Architecture and ElasticSearch**
 <div/>
     
 <hr/>
