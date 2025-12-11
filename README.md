@@ -14,7 +14,7 @@
  
  🔭 I'm currently working on **FastAPI & Django Development**
  
- 🌱 I'm currently learning **Microservices Architecture And Message Brokers**
+ 🌱 I'm currently learning **Design Patterns And Kubernetes Architecture**
 <div/>
     
 <hr/>
