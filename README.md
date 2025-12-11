@@ -7,7 +7,7 @@
 <h3 align="center">🚀 Backend Developer</h3>
 
 <p align="center">
-  <em>Building scalable backend systems with</em> **Python**
+  <em>Building scalable backend systems with Python</em> 
 </p>
 
 <div align="center">
