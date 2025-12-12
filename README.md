@@ -25,10 +25,10 @@
 </div>
 
 ### **Databases & Storage**
-<div align="center">
+<div align="center" #elasticsearch >
     <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
 </div>
-#elasticsearch
+
 ### **Message Queues & Event Streaming**
 <div align="center">
     <img src="https://skillicons.dev/icons?i=kafka,rabbitmq" />
